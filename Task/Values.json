@@ -1,0 +1,26 @@
+[
+    {
+        "username":"standard_user",
+        "password":"secret_sauce",
+        "firstname":"indra",
+        "lastname":"reddy",
+        "postalcode":"522647"
+    },
+    {
+        "username":"problem_user",
+        "password":"secret_sauce",
+        "firstname":"nirmal",
+        "lastname":"reddy",
+        "postalcode":"533647"
+    },
+    {
+        "username":"performance_glitch_user",
+        "password":"secret_sauce",
+        "firstname":"sowji",
+        "lastname":"reddy",
+        "postalcode":"544647"
+    }
+    
+   
+
+]
