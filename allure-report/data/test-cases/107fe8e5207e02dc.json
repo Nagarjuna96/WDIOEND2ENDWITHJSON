@@ -1,0 +1,56 @@
+{
+  "uid" : "107fe8e5207e02dc",
+  "name" : "my test spec",
+  "fullName" : "my test suite .my test spec",
+  "historyId" : "47d8f32a0cf048908d6b9f29e71f79c1",
+  "time" : {
+    "start" : 1591285932791,
+    "stop" : 1591285955878,
+    "duration" : 23087
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "my test suite "
+  }, {
+    "name" : "testClass",
+    "value" : "my test suite "
+  }, {
+    "name" : "testMethod",
+    "value" : "my test spec"
+  }, {
+    "name" : "package",
+    "value" : "my test suite "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "107fe8e5207e02dc.json",
+  "parameterValues" : [ "chrome" ]
+}

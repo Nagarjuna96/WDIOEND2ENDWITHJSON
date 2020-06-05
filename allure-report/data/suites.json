@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "my main1 suite ",
+    "children" : [ {
+      "name" : "my main1 spec",
+      "uid" : "e48543df4ea71414",
+      "parentUid" : "7215720315fda044265070d2f40a29b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591276184650,
+        "stop" : 1591276205599,
+        "duration" : 20949
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "7215720315fda044265070d2f40a29b8"
+  }, {
+    "name" : "my test suite ",
+    "children" : [ {
+      "name" : "my test spec",
+      "uid" : "96332b2a79edd49",
+      "parentUid" : "47db16b08b6fb069043580684865a9f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591323588639,
+        "stop" : 1591323613593,
+        "duration" : 24954
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "47db16b08b6fb069043580684865a9f3"
+  } ]
+}

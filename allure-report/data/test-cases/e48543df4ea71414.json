@@ -1,0 +1,66 @@
+{
+  "uid" : "e48543df4ea71414",
+  "name" : "my main1 spec",
+  "fullName" : "my main1 suite .my main1 spec",
+  "historyId" : "97fae47e817ad88fdd8aa8d0a3be2cfe",
+  "time" : {
+    "start" : 1591276184650,
+    "stop" : 1591276205599,
+    "duration" : 20949
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "my main1 suite "
+  }, {
+    "name" : "testClass",
+    "value" : "my main1 suite "
+  }, {
+    "name" : "testMethod",
+    "value" : "my main1 spec"
+  }, {
+    "name" : "package",
+    "value" : "my main1 suite "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "659808a047c32c25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591276045732,
+        "stop" : 1591276063460,
+        "duration" : 17728
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e48543df4ea71414.json",
+  "parameterValues" : [ "chrome" ]
+}

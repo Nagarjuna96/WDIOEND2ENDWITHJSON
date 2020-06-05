@@ -10,11 +10,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@wdio/allure-reporter": "^6.1.14",
     "@wdio/cli": "^6.1.16",
     "@wdio/jasmine-framework": "^6.1.14",
     "@wdio/local-runner": "^6.1.16",
     "@wdio/spec-reporter": "^6.1.14",
     "chromedriver": "^83.0.0",
     "wdio-chromedriver-service": "^6.0.3"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.13.0",
+    "wdio-allure-reporter": "^0.8.3"
   }
 }

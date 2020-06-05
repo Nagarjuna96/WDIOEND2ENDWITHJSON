@@ -1,7 +1,9 @@
-describe("my main1 suite ",()=>{
+const allurereport = require('@wdio/allure-reporter').default;
+allurereport.addStep('Adding an item to the cart and ordering an item');
+
+describe("my test suite ",()=>{
     
-    it("my main1 spec",async() =>{ 
-       //var emp=["standard_user","problem_user","performance_glitch_user"];
+    it("my test spec",async() =>{ 
        
        const data=require("./Values.json")
         var i=0;

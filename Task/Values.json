@@ -2,23 +2,23 @@
     {
         "username":"standard_user",
         "password":"secret_sauce",
-        "firstname":"indra",
-        "lastname":"reddy",
-        "postalcode":"522647"
+        "firstname":"Nagarjuna",
+        "lastname":"Konanki",
+        "postalcode":"523226"
     },
     {
         "username":"problem_user",
         "password":"secret_sauce",
-        "firstname":"nirmal",
-        "lastname":"reddy",
+        "firstname":"Dhanush",
+        "lastname":"Killari",
         "postalcode":"533647"
     },
     {
         "username":"performance_glitch_user",
         "password":"secret_sauce",
-        "firstname":"sowji",
-        "lastname":"reddy",
-        "postalcode":"544647"
+        "firstname":"Bhavya",
+        "lastname":"Killari",
+        "postalcode":"523226"
     }
     
    
