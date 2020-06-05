@@ -13,7 +13,7 @@ describe("my test suite ",()=>{
             await element.waitForExist(2000);
             await element.setValue(data[i].username);
             var element=await browser.$('//input[@id="password"]');
-            await element.waitForExist(5000);
+            await element.waitForExist(10000);
             await element.setValue(data[i].password);
             var element=await browser.$('//input[@type="submit"]');
             await element.click();
@@ -35,6 +35,11 @@ describe("my test suite ",()=>{
             var element=await browser.$("//input[@value='CONTINUE']");
             await element.click();
             var element=await browser.$('//a[text()="FINISH"]');
+            await element.click();
+            element=await browser.$('//button[text()="Open Menu"]');
+            await element.click();
+            await element.waitForExist({timeout:5000});
+             element=await browser.$('//a[text()="Logout"]');
             await element.click();
           
            
